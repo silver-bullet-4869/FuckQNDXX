@@ -72,7 +72,7 @@ ft2 = ImageFont.truetype("C:\\WINDOWS\\Fonts\\HGKT_CNKI.TTF", 35)
 draw.text((10,400),u"今天",font=ft2,fill = "black")
 
 ft3 = ImageFont.truetype("C:\\WINDOWS\\Fonts\\HGKT_CNKI.TTF", 19)
-draw.text((textBox_y+12,textBox_x+7),u"苏艺腾第一次完成了第八季第二期",font = ft3,fill = 'black')
+draw.text((textBox_y+12,textBox_x+7),u"xxx第一次完成了第八季第二期",font = ft3,fill = 'black')
 draw.text((textBox_y+90,textBox_x+53),u"我完成了“青年大学习”网上主题团课",font = ft3,fill = 'black')
 draw.text((textBox_y+90,textBox_x+83),u"第八季第二期的内容，你也来试试吧",font = ft3,fill = 'black')
 
